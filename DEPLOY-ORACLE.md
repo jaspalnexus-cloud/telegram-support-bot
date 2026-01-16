@@ -12,6 +12,31 @@ Oracle Cloud offers **always-free** VMs that never expire. Perfect for 24/7 bots
 
 ---
 
+## 📋 BEFORE YOU START - Get Telegram Credentials
+
+You need **2 things from Telegram**:
+
+### 1️⃣ Bot Token (from @BotFather)
+1. Open Telegram → Search **@BotFather**
+2. Send `/newbot` to create your bot
+3. Follow instructions (choose name and username)
+4. **COPY THE TOKEN** 
+   - Looks like: `1234567890:ABCdefGHIjklMNOpqrsTUVwxyz`
+   - This is your `BOT_TOKEN`
+
+### 2️⃣ Your Chat ID (from @userinfobot)  
+1. Open Telegram → Search **@userinfobot**
+2. Send any message (like "hi")
+3. **COPY YOUR ID NUMBER**
+   - Looks like: `123456789`
+   - This is your `ADMIN_CHAT_ID`
+
+📖 **Detailed guide with screenshots:** See `TELEGRAM-SETUP-GUIDE.md`
+
+✅ **Once you have both credentials, continue below!**
+
+---
+
 ## Step 1: Create Oracle Cloud Account
 
 1. Go to [cloud.oracle.com](https://cloud.oracle.com)
